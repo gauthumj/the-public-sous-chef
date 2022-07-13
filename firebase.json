@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "the-sous-chef",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
